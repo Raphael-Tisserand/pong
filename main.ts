@@ -1,0 +1,5 @@
+class DrawingApp {
+
+}
+
+new DrawingApp();
