@@ -12,4 +12,6 @@ export class GameElement {
 		this.width = w;
 		this.speed = s;
 	}
+
+	draw() {}
 }
